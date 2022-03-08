@@ -17,5 +17,5 @@ blueman
 network-manager-applet
 pacman-contrib reflector
 xdg-user-dirs
-xclip
+xclip xcape
 mkinitcpio-firmware
