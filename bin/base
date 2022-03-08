@@ -8,4 +8,13 @@ xfce4-notifyd
 xfce4-screenshooter
 xfce4-whiskermenu-plugin
 
-#gvfs
+intel-media-driver intel-gpu-tools
+zsh starship
+neovim
+pipewire pipewire-alsa pipewire-pulse pipewire-jack
+blueman
+network-manager-applet
+pacman-contrib reflector
+xdg-user-dirs
+xclip
+mkinitcpio-firmware
